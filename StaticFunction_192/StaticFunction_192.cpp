@@ -7,3 +7,6 @@ using namespace std;
 	   static int nim;
 	   int id;
 	   string nama;
+
+	   void setID();
+	   void printAll();
