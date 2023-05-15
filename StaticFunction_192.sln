@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chainfun.cpp", "chainfun.cp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "destruktor", "destruktor\destruktor.vcxproj", "{0AC1FF2D-7259-49C2-8FD5-08B3FCDA8DE6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "konstruktor", "konstruktor\konstruktor.vcxproj", "{77678C53-D83C-4C50-8543-447B4EF1E193}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{0AC1FF2D-7259-49C2-8FD5-08B3FCDA8DE6}.Release|x64.Build.0 = Release|x64
 		{0AC1FF2D-7259-49C2-8FD5-08B3FCDA8DE6}.Release|x86.ActiveCfg = Release|Win32
 		{0AC1FF2D-7259-49C2-8FD5-08B3FCDA8DE6}.Release|x86.Build.0 = Release|Win32
+		{77678C53-D83C-4C50-8543-447B4EF1E193}.Debug|x64.ActiveCfg = Debug|x64
+		{77678C53-D83C-4C50-8543-447B4EF1E193}.Debug|x64.Build.0 = Debug|x64
+		{77678C53-D83C-4C50-8543-447B4EF1E193}.Debug|x86.ActiveCfg = Debug|Win32
+		{77678C53-D83C-4C50-8543-447B4EF1E193}.Debug|x86.Build.0 = Debug|Win32
+		{77678C53-D83C-4C50-8543-447B4EF1E193}.Release|x64.ActiveCfg = Release|x64
+		{77678C53-D83C-4C50-8543-447B4EF1E193}.Release|x64.Build.0 = Release|x64
+		{77678C53-D83C-4C50-8543-447B4EF1E193}.Release|x86.ActiveCfg = Release|Win32
+		{77678C53-D83C-4C50-8543-447B4EF1E193}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
